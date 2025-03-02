@@ -1,0 +1,17 @@
+Project Installation Guide 🔥
+Follow these steps to set up the Hydrodynamic Modeling Project:
+
+Clone or Download the Project Folder
+Navigate to the Project Directory
+Install Dependencies:
+powershell
+Copy
+Edit
+pip install -r requirements.txt
+Run the Streamlit App:
+powershell
+Copy
+Edit
+streamlit run app.py
+Visualize Results in 2D & 3D
+Download Simulation Data (CSV or Excel)
