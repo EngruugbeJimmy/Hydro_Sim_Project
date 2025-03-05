@@ -21,7 +21,7 @@ In this project  I simulate 1D hydrodynamic flow using the Saint Venant Equation
 - Git & Github
 
 ## Live Demo (if available)
-Live Demo [Link](https://shorturl.at/duNfI)
+Live Demo [Link](https://hydro-sim-project1.onrender.com/)
 
 
 ## Install
